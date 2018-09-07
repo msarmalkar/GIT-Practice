@@ -10,4 +10,4 @@ GIT-Practice
 4. Always git pull main branch before you create a new branch from it or ready for PR
 5. NEVER use reset for public commits
 6. Use .gitignore wisely to ignore files from repo
-
+7. Commit Often and Push regularly 
